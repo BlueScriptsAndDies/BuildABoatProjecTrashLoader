@@ -1,4 +1,4 @@
-script_url = game:HttpGet("https://raw.githubusercontent.com/BlueScriptsAndDies/ProjectTrashBuildABoat/refs/heads/main/main.lua")
+script_url = game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")
 
 test_functions = game:HttpGet("https://raw.githubusercontent.com/BlueScriptsAndDies/TestFunctionsGUI/refs/heads/main/main.luau")
 
